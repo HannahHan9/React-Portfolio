@@ -14,7 +14,7 @@ const Projects = () => {
             </section>
             <section className="flex flex-row justify-start mt-8 pl-20">
                 <img
-                    class="h-48 w-64"
+                    class="h-48 w-85"
                     src={require("../assets/duck-dale.png")}
                     alt="duck dale mobile game homescreen"
                 />
