@@ -2,12 +2,12 @@ import React from "react";
 
 const Experience = () => {
     return (
-        <div className="pl-20 pr-20 pt-10 pb-20 bg-[#55E6A5]">
+        <div id="experience" className="pl-20 pr-20 pt-10 pb-20 bg-[#55E6A5]">
             <h1 className="font-workSans font-bold text-5xl flex text-center justify-center">
                 My experience and skills
             </h1>
 
-            <div className="flex flex-row">
+            <div className="flex flex-col md:flex-row">
                 <article className="bg-white">
                     <h1>Back-end</h1>
                     <p>JavaScript</p>

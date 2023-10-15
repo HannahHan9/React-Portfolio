@@ -2,11 +2,11 @@ import React from "react";
 
 const Header = () => {
     return (
-        <div className="text-white flex-col items-center mt-20 pl-40 pr-40">
+        <div className="text-white flex-col items-center mt-28 pl-5 pr-5 md:pl-40 md:pr-40">
             <h1 className="text-7xl font-workSans font-extrabold text-center">
                 Hi, I'm Hannah
             </h1>
-            <h2 className="font-workSans font-normal text-center mt-10">
+            <h2 className="font-workSans text-center mt-20">
                 I decided to become a software developer because I love learning
                 different programming languages and using them to solve problems
                 and to build different applications. Recently, I have trained to
